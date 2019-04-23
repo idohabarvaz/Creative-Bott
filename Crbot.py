@@ -45,6 +45,9 @@ async def addcode(ctx, *, map):
     else:
         await ctx.send("only the owner of the bot can use this command")
 
+@bot.command()
+async def invite(ctx):
+    await ctx.send("https://discordapp.com/api/oauth2/authorize?client_id=570170669879525386&permissions=0&scope=bot")
 
 
 
