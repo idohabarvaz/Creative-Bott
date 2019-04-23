@@ -1,1 +1,1 @@
-worker: python Creative Bot.py
+worker: python crbot.py
