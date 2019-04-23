@@ -1,1 +1,1 @@
-worker: python crbot.py
+worker: python Crbot.py
